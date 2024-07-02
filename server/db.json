@@ -1,0 +1,33 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"Túi sách LV",
+            "describe":"Thể hiện nét thẩm mỹ đương đại, túi Hobo của Louis Vuitton toát lên vẻ đẹp tinh tế với bảng màu sang trọng và điểm nhấn đặc trưng. Sở hữu phom dáng cong mềm mại, các thiết kế này là phụ kiện lý tưởng để mang theo hàng ngày.",
+            "image": "https://manastore.vn/wp-content/uploads/2022/10/tui-xach-lv-louis-vuitton-onthego-mau-nau-1.jpg",
+            "stock": 20,
+            "price": 300
+        },
+        {
+            "id":2,
+            "name":"Áo gucci",
+            "describe":"Áo Phông Unisex Gucci Tshirt In White Màu Trắng Size M chính hãng từ thương hiệu Gucci nổi tiếng.",
+            "image": "https://louiskimmi.com/wp-content/uploads/2023/04/z4262417233425_ab4f2a6de912da5982a31c10e47519c3.jpg",
+            "stock": 12,
+            "price": 90
+        },
+        {
+            "id":3,
+            "name":"Giày Nike Air Jordan",
+            "describe":"Thể hiện nét thẩm mỹ đương đại, túi Hobo của Louis Vuitton toát lên vẻ đẹp tinh tế với bảng màu sang trọng và điểm nhấn đặc trưng. Sở hữu phom dáng cong mềm mại, các thiết kế này là phụ kiện lý tưởng để mang theo hàng ngày.",
+            "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/427/145/products/nike-air-jordan-1-low-aluminum-dc0774-141-japanorderstore-0909665979-1.jpg?v=1677407967640",
+            "stock": 20,
+            "price": 120
+        }
+    ],
+    "cart":[
+        {
+            
+        }
+    ]
+}
